@@ -2,9 +2,8 @@
 
 `「 Computer Engineering BASc Co-op Candidate @ 🦣 University of Ottawa 」`
 
-<details>
+<details open>
 <summary><b><code>☰ Details</code></b></summary>
-  <details open>
 <br>
 
 [![Code](https://img.shields.io/badge/-code-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Diraclol?tab=repositories)
@@ -16,11 +15,13 @@
 [![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/Diraclol?tab=repositories&language=shell)
 
 **Projects**
+
 - [MacTrack](https://github.com/Diraclol/MacTrack) — offline-first Android calorie tracker. Kotlin, Jetpack Compose, Room. Eight schema migrations, zero data loss.
 - [Homelab](https://github.com/Diraclol/Homelab) — eleven containers on a repurposed laptop, behind HTTPS with nothing exposed. Incident log included.
 - [OTAMS](https://github.com/Diraclol/OTAMS) — Android tutoring-appointment app with Firebase. SEG 2105 group project.
 
 Check out my [Resumé](https://junguyen.me/assets/DanielNguyenResume.pdf) and [junguyen.me](https://junguyen.me)
+
 </details>
 
 `════ ⋆✦⋆ ════`

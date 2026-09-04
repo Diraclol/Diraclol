@@ -20,10 +20,6 @@
 - [OTAMS](https://github.com/Diraclol/OTAMS) — Android tutoring-appointment app with Firebase. SEG 2105 group project.
 
 Check out my [Resumé](https://junguyen.me/assets/DanielNguyenResume.pdf) and [junguyen.me](https://junguyen.me)
-
-[![Followers](https://img.shields.io/github/followers/Diraclol?style=flat-square&logo=github&logoColor=white&label=followers)](https://github.com/Diraclol?tab=followers)
-[![Updated](https://img.shields.io/github/last-commit/Diraclol/Diraclol?label=profile%20updated&style=flat-square)](https://github.com/Diraclol/Diraclol)
-
 </details>
 
 `════ ⋆✦⋆ ════`

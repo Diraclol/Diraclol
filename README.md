@@ -14,8 +14,6 @@
 [![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white)](https://github.com/Diraclol?tab=repositories&language=c)
 [![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/Diraclol?tab=repositories&language=shell)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Diraclol&show_icons=true&hide_border=true&hide=issues&title_color=0b5fb5&icon_color=0b5fb5&text_color=555)](https://github.com/Diraclol)
-
 **Projects**
 - [MacTrack](https://github.com/Diraclol/MacTrack) — offline-first Android calorie tracker. Kotlin, Jetpack Compose, Room. Eight schema migrations, zero data loss.
 - [Homelab](https://github.com/Diraclol/Homelab) — eleven containers on a repurposed laptop, behind HTTPS with nothing exposed. Incident log included.

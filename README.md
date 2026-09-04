@@ -1,4 +1,4 @@
-### `Hello! I am [Daniel Nguyen](https://junguyen.me)`
+### <code>Hello! I am <a href="https://junguyen.me">Daniel Nguyen</a></code>
 
 `「 Computer Engineering BASc Co-op Candidate @ 🦣 University of Ottawa 」`
 

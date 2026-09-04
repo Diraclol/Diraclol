@@ -4,6 +4,7 @@
 
 <details>
 <summary><b><code>☰ Details</code></b></summary>
+  <details open>
 <br>
 
 [![Code](https://img.shields.io/badge/-code-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Diraclol?tab=repositories)

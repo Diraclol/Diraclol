@@ -1,6 +1,6 @@
 ### <code>Hello! I am <a href="https://junguyen.me">Daniel Nguyen</a></code>
 
-`「 Computer Engineering BASc Co-op Candidate @ 🦣 University of Ottawa 」`
+`「 Computer Engineering (Co-Op) @ 🦣 University of Ottawa 」`
 
 <details open>
 <summary><b><code>☰ Details</code></b></summary>
